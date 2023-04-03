@@ -1,0 +1,118 @@
+body{
+  margin: 0;
+padding: 0%;
+background-image: url(h.jpg);
+background-position: 50% 50%;
+background-size: cover;
+background-position: center;
+}
+header{
+  background-color: hwb(221 10% 10%);
+  height: 50px;
+  justify-content:space-between ;
+  width: 100%;
+  overflow: hidden;
+  
+}
+footer{ 
+  background-color: hsl(175, 71%, 33%);
+  margin-top: 80vh;
+   text-align: center;
+   height: 5vh;
+
+}
+
+nav ul{
+list-style-type: none;
+display: flex;
+justify-content:right;
+padding: 10px;
+}
+
+ul li a{
+  text-decoration: none;
+  color:black;
+  padding: 5px 20px;
+}
+ul li a:hover{
+  color: #7a3333;
+}
+
+.logo{
+  padding: 5px;
+  float: left;
+  width: 30px;
+  height: 30px;;
+}
+.title{
+  background-image: url(i.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  overflow: hidden;
+  
+}
+.title h1{
+  color: #0a0a02;
+  font-size: 70px;
+  align-items: center;
+}
+.text{color:#f1f115;
+  font-size: 30px;
+overflow: hidden;
+background-image: url(imge.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: 50% 50%;
+width: 90vh;
+height: 70vh;
+}
+.dis
+{
+  width: 70px;
+  height: 60px;
+}
+.dist{width: 80px;
+
+
+}
+.services{
+  font-size: 20px;
+  color: rgb(2, 8, 8);
+}
+.contact{
+  align-items: center;
+  ;                           
+
+}
+.fom{
+background-image: url(ima32.jpg);
+float: right;
+height: 30vh;
+position: absolute;
+top: 40%;
+left: 35%;
+transform: translate(-50% -50%);
+overflow: hidden;
+}
+.cont{
+  font-size: 30px;
+
+}
+.us{
+  font-size: 40px;
+  margin:50px ;
+  padding: 20px;
+  font-size: 20px;
+overflow: hidden;
+width: 70vh;
+}
+.aboutimg{
+  float: right;
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  background-size: cover;
+
+
+}
